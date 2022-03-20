@@ -1,1 +1,1 @@
-Hi this is my frst GITHUB code
+sample code
